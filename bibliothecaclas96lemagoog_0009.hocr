@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas96lemagoog_0009.png"; bbox 0 0 2864 4994; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 350 2007 1236 2106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 350 2007 1236 2106">
+     <span class='ocr_line' id='line_1_1' title="bbox 350 2007 1236 2106; baseline 0.001 -32"><span class='ocrx_word' id='word_1_1' title='bbox 350 2007 698 2106; x_wconf 79' lang='lat' dir='ltr'><strong>EXCUDEBAT</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 730 2007 1005 2076; x_wconf 88' lang='lat' dir='ltr'>FIRMINUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1038 2008 1236 2094; x_wconf 89' lang='lat' dir='ltr'><strong>DIDOT,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 291 2133 1303 2234">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 291 2133 1303 2234">
+     <span class='ocr_line' id='line_1_2' title="bbox 291 2133 1303 2234; baseline 0.001 -10"><span class='ocrx_word' id='word_1_4' title='bbox 291 2133 395 2225; x_wconf 66' lang='lat' dir='ltr'>nndxs</span> <span class='ocrx_word' id='word_1_5' title='bbox 415 2179 459 2226; x_wconf 76' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 484 2159 720 2234; x_wconf 67' lang='lat' dir='ltr'><strong>emmaum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 745 2154 1303 2230; x_wconf 61' lang='lat' dir='ltr'><strong>Acanfflunum&#39;moemflus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1436 4994">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1436 4994">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1436 4994; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1436 4994; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
